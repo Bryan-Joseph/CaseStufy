@@ -1,0 +1,18 @@
+.waves{
+    aspect-ratio: 900/300;
+    width: 100%;
+    background-image: url(abcd.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.absolute{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.relative{
+    position: relative;
+}
