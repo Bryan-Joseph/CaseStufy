@@ -75,13 +75,17 @@
     margin-top: 20px;
 }
 .margin_10{
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .margin_15{
-    margin-top: 20px;
+    margin-top: 15px;
 }
 .margin_25{
-    margin-top: 20px;
+    margin-top: 25px;
+}
+
+.margin_30{
+    margin-top: 30px;
 }
 
 .fixed_top_right_30{
